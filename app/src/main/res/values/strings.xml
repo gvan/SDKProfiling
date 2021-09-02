@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SDKProfiling</string>
+    <string name="load_ad">Load ad</string>
+    <string name="admixer">Admixer</string>
+    <string name="gam">GAM</string>
+
+    <string name="banner_admixer">Banner Admixer</string>
+    <string name="banner_admixer_plus_gam">Banner Admixer + GAM</string>
+    <string name="interstitial_admixer">Interstitial Admixer</string>
+    <string name="interstitial_admixer_plus_gam">Interstitial Admixer + GAM</string>
+
+    <string name="banner_gam">Banner GAM</string>
+    <string name="interstitial_gam">Interstitial GAM</string>
+
+</resources>
